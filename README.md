@@ -6,8 +6,8 @@ App solving travelling salesman problem using nearest neighbor algorithm. App de
 - Allegro 5.0.10 library - used for graphic representation 
 
 ## Example
-![App](./img/ss_app.png)
-![Graphic representation](./img/ss_gui.png)
+![App](./Images/ss_app.png)
+![Graphic representation](./Images/ss_gui.png)
 
 ## Installation
 
